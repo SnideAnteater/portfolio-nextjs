@@ -37,7 +37,7 @@ const ContactMe = (props: Props) => {
         <h4 className=" text-4xl font-semibold text-center">
           I got just what you need.{" "}
           <span className=" decoration-violet-500/50 underline">
-            Let's Talk
+            Let&apos;s Talk
           </span>
         </h4>
 

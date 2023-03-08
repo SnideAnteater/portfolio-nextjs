@@ -62,7 +62,7 @@ const About = (props: Props) => {
           background
         </h4>
         <p className="text-base">
-          Hey Hey! I'm Akmal a Developer with a knack for creative web
+          Hey Hey! I&apos;m Akmal a Developer with a knack for creative web
           experiences. I enjoy learning new things and technologies so further
           enhance my capabilities as a developer. Currently on a mission to
           become a full fledged{" "}

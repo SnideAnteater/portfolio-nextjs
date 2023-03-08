@@ -17,7 +17,7 @@ export default function Home() {
      scrollbar scrollbar-track-slate-500/20 scrollbar-thumb-violet-500"
     >
       <Head>
-        <title>Akmal's Portfolio</title>
+        <title>Akmal&apos;s Portfolio</title>
       </Head>
 
       {/* Header */}
