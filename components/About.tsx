@@ -44,8 +44,8 @@ const About = (props: Props) => {
         }}
       >
         <Image
-          className=" -mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover
-        md:rounded-lg md:w-64 md:h-95 xl:w-[1000px] xl:h-[400px]"
+          className=" -mb-20 md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover
+        md:rounded-lg md:w-[1000px] md:h-96 xl:w-[1000px] xl:h-[400px]"
           alt="portrait"
           width={200}
           height={200}
@@ -54,14 +54,14 @@ const About = (props: Props) => {
       </motion.div>
 
       <div className=" space-y-10 px-0 md:px-10">
-        <h4 className=" text-4xl font-semibold">
+        <h4 className=" text-2xl md:text-4xl font-semibold">
           Heres a{" "}
           <span className=" underline decoration-violet-500 font-semibold">
             little
           </span>{" "}
           background
         </h4>
-        <p className="text-base">
+        <p className=" text-xs md:text-base">
           Hey Hey! I&apos;m Akmal a Developer with a knack for creative web
           experiences. I enjoy learning new things and technologies so further
           enhance my capabilities as a developer. Currently on a mission to

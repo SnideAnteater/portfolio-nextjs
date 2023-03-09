@@ -27,18 +27,18 @@ function Skills({}: Props) {
         Skills
       </h3>
 
-      <div className=" grid grid-cols-4 gap-5 ">
+      <div className=" grid grid-cols-4 gap-5">
         <Skill
           skillName="Javascript"
           skillImage="https://cdn.svgporn.com/logos/javascript.svg"
         ></Skill>
         <Skill
           skillName="Typescript"
-          directionLeft
           skillImage="https://cdn.svgporn.com/logos/typescript-icon.svg"
         ></Skill>
         <Skill
           skillName="A-Frame"
+          directionLeft
           skillImage="https://upload.wikimedia.org/wikipedia/commons/9/92/A-Frame_logo.png"
         ></Skill>
         <Skill
@@ -48,7 +48,6 @@ function Skills({}: Props) {
         ></Skill>
         <Skill
           skillName=".Net"
-          directionLeft
           skillImage="https://cdn.svgporn.com/logos/dotnet.svg"
         ></Skill>
         <Skill
@@ -62,6 +61,7 @@ function Skills({}: Props) {
         ></Skill>
         <Skill
           skillName="Tailwind CSS"
+          directionLeft
           skillImage="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"
         ></Skill>
         <Skill

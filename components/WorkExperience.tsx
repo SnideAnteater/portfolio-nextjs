@@ -25,7 +25,7 @@ const WorkExperience = (props: Props) => {
       </h3>
 
       <div
-        className=" w-full flex my-5 space-x-5 overflow-x-scroll p-10 snap-x snap-mandatory 
+        className=" w-full h-[30em] md:h-[600px] flex mt-24 md:my-5 space-x-5 overflow-x-scroll md:p-10 snap-x snap-mandatory 
       scrollbar scrollbar-track-slate-500/20 scrollbar-thumb-violet-500"
       >
         <ExperienceCard
